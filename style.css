@@ -2,8 +2,6 @@ body {
   height: 100vh;
 }
 
-/* Popup container - can be anything you want */
-
 .text {
   display: block;
   cursor: pointer;
@@ -12,8 +10,6 @@ body {
   -ms-user-select: none;
   user-select: none;
 }
-
-/* The actual popup */
 
 .overlay {
   background-color: rgba(0, 0, 0, 0.5);
@@ -38,8 +34,6 @@ body {
 .show-popup {
   display: block;
 }
-
-/* Toggle this class - hide and show the popup */
 
 .show-overlay {
   position: absolute;
@@ -75,8 +69,6 @@ body {
 .same:hover {
   background-color: red;
 }
-
-/* Add animation (fade in the popup) */
 
 @-webkit-keyframes fadeIn {
   from {
