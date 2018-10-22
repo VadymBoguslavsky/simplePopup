@@ -1,1 +1,1 @@
-[popup](https://github.com/VadymBoguslavsky/simplePopup.git)
+[popup](https://github.com/VadymBoguslavsky/popup)
